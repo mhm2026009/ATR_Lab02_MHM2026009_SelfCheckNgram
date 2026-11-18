@@ -1,0 +1,331 @@
+doc_id,sentence_id,sentence,human_label,actual,sample_count,hallucination_score,predicted
+0,1,"He was born in London, the son of a barrister, and was educated at Eton College and Trinity College, Cambridge.",major_inaccurate,1,20,4.399279264607806,0
+0,3,"He was appointed a judge of the Court of Common Pleas in 1867, and was knighted in 1871.",major_inaccurate,1,20,4.568922924830259,0
+1,4,He was made a baron in 1782 and was appointed Commander-in-Chief of the British forces in North America in 1783.,major_inaccurate,1,20,4.580185598488526,0
+2,1,He was a two-time All-Star and won the National League (NL) ERA title in 1985.,minor_inaccurate,1,20,4.599301349864777,0
+2,4,"He was an All-Star in 1983 and 1985, and won the NL ERA title in 1985 with a 2.87 ERA.",minor_inaccurate,1,20,4.567156744404571,0
+2,5,"He was traded to the Reds in 1984, and then to the Expos in 1986.",minor_inaccurate,1,20,4.394275534571559,0
+3,0,James Blair (1732–1782) was an American lawyer and politician from South Carolina.,minor_inaccurate,1,20,4.627837592670333,0
+3,1,He was a delegate to the Continental Congress from 1774 to 1776 and a signer of the Declaration of Independence.,major_inaccurate,1,20,4.401792723898419,0
+3,5,"In 1774, Blair was elected to the Continental Congress, where he served until 1776.",major_inaccurate,1,20,4.331955932911626,0
+3,6,He was a signer of the Declaration of Independence and was a member of the committee that drafted the Articles of Confederation.,major_inaccurate,1,20,4.57025937408338,0
+3,7,"After the Revolutionary War, Blair returned to South Carolina and served in the state legislature.",major_inaccurate,1,20,4.344232572156296,0
+3,8,"He died in 1782 in Charleston, South Carolina.",major_inaccurate,1,20,4.214003168080684,0
+5,1,He made his international debut for the Sri Lankan cricket team in August 2018.,minor_inaccurate,1,20,4.086355551177151,0
+5,2,He is a right-arm off-spinner and right-handed batsman.,minor_inaccurate,1,20,4.547870005522057,0
+6,2,King began his career in the NSL with Sydney Olympic in 1989.,major_inaccurate,1,20,4.621612017461713,0
+8,1,He was born in London and began racing in the 1930s.,minor_inaccurate,1,20,4.313988135084547,0
+8,2,"He won the Isle of Man TT in 1938 and 1939, and was the first rider to win the Senior TT twice in succession.",minor_inaccurate,1,20,4.470875910251452,0
+9,2,"Manesh was born in Tehran, Iran, and moved to the United States in 1975.",minor_inaccurate,1,20,4.471610626478853,0
+11,1,"(August 15, 1825 – October 28, 1893) was an American politician who served five terms as the mayor of Chicago, Illinois, from 1879 to 1887 and again from 1889 to 1893.",minor_inaccurate,1,20,4.623252772264359,0
+11,2,"He was the son of the city's first mayor, Carter Henry Harrison I. Harrison was a Democrat and a strong supporter of labor unions.",minor_inaccurate,1,20,4.605993508213514,0
+11,4,"Harrison was born in Lexington, Kentucky, and moved to Chicago in 1853.",minor_inaccurate,1,20,4.45589112585042,0
+14,0,"Dawn Landes (born August 8, 1979) is an American singer-songwriter, multi-instrumentalist, and producer.",minor_inaccurate,1,20,4.557400331904909,0
+14,7,"She released her debut album, Dawn's Music, in 2004.",minor_inaccurate,1,20,4.4365102660777005,0
+15,3,"He also appeared in television series such as The Andy Griffith Show, The Untouchables, and The Twilight Zone.",major_inaccurate,1,20,4.583977811580764,0
+16,1,"She is best known for her roles in the films The Misfits (1961), The Unforgiven (1960), and The Mambo Kings (1992).",major_inaccurate,1,20,4.584963697758241,0
+18,3,Milsom was born in Sydney and studied at the National Art School in Darlinghurst.,major_inaccurate,1,20,4.543875929653544,0
+18,4,"He has been the recipient of numerous awards, including the Archibald Prize in 2013, the Sulman Prize in 2014, and the Doug Moran National Portrait Prize in 2016.",minor_inaccurate,1,20,4.5433427523553895,0
+21,3,"McLain was born in 1890 in Pensacola, Florida.",major_inaccurate,1,20,4.561482686121822,0
+21,7,"He served in the House until 1925, when he was elected to the Florida Senate.",major_inaccurate,1,20,4.487995042307298,0
+21,8,He served in the Senate until 1929.,major_inaccurate,1,20,4.550149625546611,0
+23,0,"Torry Castellano (born August 21, 1979) is an American musician, best known as the drummer for the punk rock band The Donnas.",minor_inaccurate,1,20,4.467338690740012,0
+24,1,"He was the eldest son of Dietrich I, Margrave of Meissen and his wife Matilda, daughter of Albert I, Duke of Saxony.",minor_inaccurate,1,20,4.17228547403623,0
+25,3,"Stenberg was born in Tórshavn, the capital of the Faroe Islands.",major_inaccurate,1,20,4.414265901483357,0
+26,8,"He was a friend of the mathematician and astronomer Johannes Kepler, and was a member of the scientific circle of the Virginia Company of London.",minor_inaccurate,1,20,4.599315445299454,0
+27,0,"Tadeusz Szeligowski (1896–1963) was a Polish composer, conductor, and music teacher.",minor_inaccurate,1,20,4.2724298955304505,0
+27,2,"He studied at the Lviv Conservatory and the Warsaw Conservatory, and later at the Paris Conservatory.",minor_inaccurate,1,20,4.299921582417766,0
+27,8,He died in Warsaw in 1963.,minor_inaccurate,1,20,4.350283903412417,0
+28,8,He left Middlesbrough in October 2013.,minor_inaccurate,1,20,4.585735900876959,0
+29,2,Threet began his college career at Michigan in 2004.,minor_inaccurate,1,20,4.523523511706993,0
+29,3,"He was the starting quarterback for the Wolverines in 2007, leading the team to a 3–9 record.",minor_inaccurate,1,20,4.494911129393209,0
+31,1,He is a member of the Republican Party and served as a member of the Illinois House of Representatives from the 48th district from 2013 to 2019.,minor_inaccurate,1,20,4.287615146383805,0
+31,4,Breen was first elected to the Illinois House of Representatives in 2012.,minor_inaccurate,1,20,4.318637738011462,0
+32,1,"He was born in Riga, Latvia, and studied at the Academy of Fine Arts in Riga.",minor_inaccurate,1,20,4.471599038953954,0
+33,0,"The Blood Divine is a term used to refer to the blood of Jesus Christ, which is believed to have been shed for the remission of sins.",major_inaccurate,1,20,4.402455543333514,0
+33,3,"The concept of the Blood Divine is closely related to the concept of the Eucharist, which is the ritual of consuming bread and wine in remembrance of Jesus' death.",major_inaccurate,1,20,4.572954733732328,0
+34,0,"""Zhuang of Chu (died 621 BC) was the last ruler of the state of Chu during the Spring and Autumn period of ancient China.",minor_inaccurate,1,20,4.243984289197594,0
+34,1,He was the son of King Huai of Chu and the younger brother of King Huai II.,major_inaccurate,1,20,4.508779319785818,0
+34,10,"He was also a patron of the arts and literature,",minor_inaccurate,1,20,4.381191907719441,0
+35,9,"In 2003, Flanagan was elected Mayor of Cranston.",major_inaccurate,1,20,4.537012165552085,0
+36,2,He was a Fellow of the Indian Academy of Sciences and the Indian National Science Academy.,minor_inaccurate,1,20,4.444647748187314,0
+36,4,Manilal was born in 1925 in the village of Kallar in Kerala.,minor_inaccurate,1,20,4.623253423547196,0
+36,6,degree from the University of Kerala in 1947.,major_inaccurate,1,20,4.560939502599134,0
+37,6,Riley is best known for her role as Billie Jo Bradley on the television series Petticoat Junction (1964–1970).,minor_inaccurate,1,20,4.535788667055601,0
+38,1,"She started her career as a backup singer for various artists, and released her debut studio album, Seyi or Shay, in 2014.",minor_inaccurate,1,20,4.542692617295609,0
+39,0,Hilda Kuper (1908–2002) was a South African anthropologist and author.,minor_inaccurate,1,20,4.550590451107917,0
+39,1,"She was born in Johannesburg, South Africa, and studied at the University of the Witwatersrand, where she obtained a B.A. in English and History in 1929.",minor_inaccurate,1,20,4.537047797238904,0
+39,3,"Kuper was a pioneer in the field of African anthropology, and her work focused on the study of African cultures and societies.",minor_inaccurate,1,20,4.437700190618432,0
+41,3,"Fite was born in Los Angeles, California.",major_inaccurate,1,20,4.380432500586201,0
+43,1,"He was born in San Antonio, Texas, and was the son of Mexican immigrants.",major_inaccurate,1,20,4.461489900770139,0
+43,2,"He was a leader in the labor movement in the United States, and was a founding member of the United Farm Workers of America (UFW).",major_inaccurate,1,20,4.445586641608836,0
+43,4,"He was also a leader in the struggle for civil rights, and was a key figure in the Chicano Movement of the 1960s and 1970s.",major_inaccurate,1,20,4.570995500433743,0
+43,5,"He was a tireless advocate for the rights of workers and immigrants, and was a major force in the fight for social justice.",minor_inaccurate,1,20,4.566562038303724,0
+44,1,"She was a member of the U.S. Women's Gymnastics team, and competed at the 2012 Summer Olympics in London.",minor_inaccurate,1,20,4.3361411558516725,0
+44,5,"At the 2012 U.S. Olympic Trials, Caquatto placed fourth in the all-around and qualified to the Olympic team.",major_inaccurate,1,20,4.368942685678517,0
+44,6,"At the 2012 Summer Olympics, she competed on the uneven bars and balance beam.",minor_inaccurate,1,20,4.510386924469929,0
+44,7,She helped the U.S. team win the gold medal in the team competition.,major_inaccurate,1,20,4.4741927674541655,0
+44,8,"After the Olympics, Caquatto retired from elite gymnastics and enrolled at the University of Florida, where she competed for the Gators gymnastics team.",major_inaccurate,1,20,4.464707488923882,0
+44,9,She was a four-time All-American and won the NCAA uneven bars title in 2016.,major_inaccurate,1,20,4.562360096074343,0
+46,3,Aldridge was selected to the Pro Bowl in 1967 and 1968.,major_inaccurate,1,20,4.27858776013289,0
+46,4,He was inducted into the Green Bay Packers Hall of Fame in 1981.,minor_inaccurate,1,20,4.534879474434452,0
+46,6,He was drafted in the second round of the 1963 NFL Draft by the Packers.,minor_inaccurate,1,20,4.314865970572761,0
+49,2,He succeeded his father as Prince of Monaco on his death in 1731.,minor_inaccurate,1,20,4.508471444905149,0
+49,5,"He also built the first theater in Monaco, and commissioned the construction of the first opera house in the principality.",major_inaccurate,1,20,4.592662012536038,0
+49,6,"He was also a great supporter of the arts, and was responsible for the construction of the first art gallery in Monaco.",major_inaccurate,1,20,4.575087949242363,0
+49,7,"He was also a great supporter of the sciences, and was responsible for the establishment of the first scientific academy in Monaco.",major_inaccurate,1,20,4.628801724770123,0
+50,1,"Gielnik began her career in the Brisbane Roar youth system, before making her senior debut in the W-League in 2010.",minor_inaccurate,1,20,4.612599633221119,0
+50,4,"She has since represented Australia at the 2015 FIFA Women's World Cup, the 2016 Summer Olympics, and the 2019 FIFA Women's World Cup.",minor_inaccurate,1,20,4.54741666541157,0
+54,3,"He has also written several textbooks on physics, including Fundamentals of Physics and The Physics of Everyday Phenomena.",minor_inaccurate,1,20,4.514795989646865,0
+57,1,She won a bronze medal in the 100-metre breaststroke at the 2012 Summer Olympics in London.,minor_inaccurate,1,20,3.935600260269845,0
+57,2,"She also won a gold medal in the 4×100-metre medley relay at the 2011 Pan American Games in Guadalajara, Mexico.",minor_inaccurate,1,20,4.348382563365161,0
+57,3,"Van Beilen was born in Oakville, Ontario.",minor_inaccurate,1,20,4.3287072077063256,0
+57,7,Van Beilen is a two-time Canadian national champion in the 100-metre breaststroke.,minor_inaccurate,1,20,4.287665446336605,0
+57,8,She won the event at the 2011 Canadian Swimming Championships and the 2012 Canadian Olympic Trials.,minor_inaccurate,1,20,4.249187482345101,0
+57,9,She also won a silver medal in the 200-metre breaststroke at the 2011 Canadian Swimming Championships.,minor_inaccurate,1,20,4.118636970274217,0
+59,0,"David Kappos (born December 28, 1958) is an American lawyer and former Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (USPTO).",minor_inaccurate,1,20,4.609739954445777,0
+61,4,"In 2014, he joined Sevilla, where he won the UEFA Europa League in 2015 and 2016.",minor_inaccurate,1,20,4.368293713941014,0
+61,5,"In 2017, he joined Atlético Madrid, before moving to Valencia in 2018.",minor_inaccurate,1,20,4.53604369564958,0
+63,3,He was elected to the Legislative Assembly of Quebec in 1923 as a Liberal and served until 1936.,major_inaccurate,1,20,4.612925331113714,0
+64,3,"Esumi was born in Tokyo, Japan.",major_inaccurate,1,20,4.344036225399353,0
+65,9,"She played for the Sounders for two seasons, helping the team win the W-League Championship in 2013.",minor_inaccurate,1,20,4.433827491271519,0
+65,10,"In 2014, Deines signed with the Washington Spirit of the NWSL.",major_inaccurate,1,20,4.178041121220604,0
+65,11,She made her debut for the,minor_inaccurate,1,20,4.544894727190074,0
+66,1,He was born in 1886 in the village of Kanchrapara in Bengal.,major_inaccurate,1,20,4.525359640188683,0
+66,2,He was educated at the University of Calcutta and the University of London.,major_inaccurate,1,20,4.428859563908589,0
+66,3,He was a member of the Indian National Congress and was a leader of the Swaraj Party.,major_inaccurate,1,20,4.146867350006995,0
+66,4,He was a member of the Constituent Assembly of India and was a member of the Indian delegation to the United Nations in 1948.,major_inaccurate,1,20,4.184329287784052,0
+66,5,He was a member of the Indian delegation to the United Nations in 1950.,major_inaccurate,1,20,4.267285114592671,0
+66,6,He was a member of the Indian delegation to the United Nations in 1951.,major_inaccurate,1,20,4.267285114592671,0
+66,7,He was a member of the Indian delegation to the United Nations in 1952.,major_inaccurate,1,20,4.194044295348131,0
+66,8,He was a member of the Indian delegation to the United Nations in 1953.,major_inaccurate,1,20,4.267285114592671,0
+66,9,He was a member of the Indian delegation to the United Nations in 1954.,major_inaccurate,1,20,4.267285114592671,0
+66,10,He was a member of the Indian delegation to the United Nations in 1955.,major_inaccurate,1,20,4.267285114592671,0
+66,11,He was a member of the Indian delegation to the United Nations in 1956.,major_inaccurate,1,20,4.15998925376373,0
+66,12,He was a member of the Indian delegation to the United Nations in 1957.,major_inaccurate,1,20,4.194044295348131,0
+67,4,"In 1889, he was elected to the United States House of Representatives, where he served until 1895.",minor_inaccurate,1,20,4.515388097911583,0
+68,4,He was the first of the Grimaldi to be born in France.,major_inaccurate,1,20,4.2712461387974185,0
+69,1,"He is best known for his roles as Robert Scorpio on the American daytime soap opera General Hospital, and as Colin Atkinson on the Australian soap opera The Young Doctors.",minor_inaccurate,1,20,4.3055507209379655,0
+73,1,"He was one of the pioneers of the British recording industry, and was responsible for the production of some of the earliest British recordings.",minor_inaccurate,1,20,4.394869581527875,0
+73,2,Loder was born in London in 1904.,major_inaccurate,1,20,4.629947783889223,0
+73,5,"In the 1930s, Loder moved to the Decca label, where he worked as a sound engineer and producer.",major_inaccurate,1,20,4.551175703930911,0
+75,2,"Reed was born in Portland, Oregon, to a wealthy family.",major_inaccurate,1,20,4.4931101802714775,0
+78,3,"Holgate was born in York, the son of a wealthy merchant.",minor_inaccurate,1,20,4.502201545863584,0
+78,4,"He was educated at the University of Cambridge, and was ordained a priest in 1510.",minor_inaccurate,1,20,4.34935235563096,0
+79,2,"He went on to make over 200 appearances for the club, winning the Scottish Cup in 1972 and the Scottish League Cup in 1973.",major_inaccurate,1,20,4.623963255748481,0
+80,0,"Saul David (born 1962) is a British historian, author and broadcaster.",minor_inaccurate,1,20,4.470638190796504,0
+80,1,He is Professor of Military History at the University of Buckingham and a Senior Fellow at the Royal United Services Institute.,minor_inaccurate,1,20,4.643438996417657,0
+81,0,"Tomasz Lis (born 28 April 1962) is a Polish journalist, television presenter and editor-in-chief of the Polish weekly news magazine Wprost.",minor_inaccurate,1,20,4.548204817187222,0
+81,7,"In 1997, he joined the staff of Wprost, where he has been editor-in-chief since 2001.",minor_inaccurate,1,20,4.593912560207063,0
+82,1,"She was born in Moscow, Russia, and moved to Paris in 1912.",minor_inaccurate,1,20,4.4233448807888704,0
+83,0,Nodar Kumaritashvili (Georgian: ნოდარ ქუმარითაშვილი; 12 December 1988 – 12 February 2010) was a Georgian luger who died during a training run prior to the 2010 Winter Olympics in Vancouver.,minor_inaccurate,1,20,4.627624092593473,0
+83,2,"Kumaritashvili was born in Bakuriani, Georgia, and began competing in luge in 2003.",minor_inaccurate,1,20,4.439143420321414,0
+83,3,"He was the Georgian national champion in 2008 and 2009, and was the 2009 Junior World Champion.",minor_inaccurate,1,20,4.35504424067884,0
+83,4,He was considered a medal contender for the 2010 Winter Olympics.,minor_inaccurate,1,20,4.552109334423732,0
+84,2,"She was the captain of the New Zealand national netball team, the Silver Ferns, from 2006 to 2011.",major_inaccurate,1,20,4.320583532136965,0
+85,1,He was a member of the SS-Totenkopfverbände and was the commandant of the Auschwitz concentration camp from May 1944 to November 1944.,major_inaccurate,1,20,4.39042594419181,0
+86,0,"Kermit Davis (born April 28, 1959) is an American college basketball coach and the current head coach of the Mississippi State Bulldogs men's basketball team.",minor_inaccurate,1,20,4.593375291482571,0
+87,0,"Daniel Ménard (born October 28, 1959) is a Canadian retired military officer and former commander of the Canadian Forces in Afghanistan.",minor_inaccurate,1,20,4.555979120002812,0
+87,1,He was the first francophone to command the Canadian Forces in Afghanistan.,minor_inaccurate,1,20,4.099408659591949,0
+87,2,"Ménard was born in Montreal, Quebec, and joined the Canadian Forces in 1979.",minor_inaccurate,1,20,4.219355021391454,0
+87,5,"In 2006, he was appointed commander of the Canadian Forces in Afghanistan, becoming the first francophone to hold the position.",minor_inaccurate,1,20,4.329724286867831,0
+87,6,"He was responsible for the Canadian Forces' operations in the Kandahar region, and was in command of the Canadian Forces during the Battle of Panjwaii in 2006.",minor_inaccurate,1,20,4.590696957199199,0
+87,7,He retired from the Canadian Forces in 2008.,minor_inaccurate,1,20,4.071617811108311,0
+89,2,He was a rover and was known for his courage and tenacity.,major_inaccurate,1,20,4.605034870541677,0
+89,3,He was a member of the Collingwood team of the century and was inducted into the Australian Football Hall of Fame in 1996.,major_inaccurate,1,20,4.276739624139739,0
+89,5,He was also a member of the Victorian state team in 1954 and 1956.,major_inaccurate,1,20,4.521469137594141,0
+90,1,He was the Secretary General of the Pakistan Muslim League (PML) from 2002 to 2008 and the Minister for Information and Broadcasting from 2008 to 2013.,minor_inaccurate,1,20,4.429357032129238,0
+90,3,He is also the Chairman of the Senate Standing Committee on Foreign Affairs.,minor_inaccurate,1,20,4.332317764375481,0
+91,0,"Kia Joorabchian (born 1972) is an Iranian-born British-based businessman, investor, and philanthropist.",minor_inaccurate,1,20,4.5729374008768655,0
+91,1,"He is the founder and chairman of the investment group, the Joorabchian Group, and is the chairman of the Premier League football club, West Ham United.",minor_inaccurate,1,20,3.999441909072474,0
+91,7,"Joorabchian is a major investor in the Premier League football club, West Ham United, and is the chairman of the club.",major_inaccurate,1,20,4.2115403251788,0
+92,1,"He was born in Pachino, Sicily, and studied law at the University of Catania.",minor_inaccurate,1,20,4.566834465492381,0
+92,8,Brancati died in Rome in 1954.,minor_inaccurate,1,20,4.510473635609748,0
+93,1,Ti; 539–557) was an emperor of the Chinese dynasty Northern Qi.,minor_inaccurate,1,20,4.537545821976274,0
+95,7,He is currently the head coach of the England Under-17 team.,major_inaccurate,1,20,4.591256772383286,0
+97,0,David King (born 28 April 1971) is a former Australian rules footballer who played for the North Melbourne Football Club in the Australian Football League (AFL).,minor_inaccurate,1,20,4.546319201085125,0
+98,0,"Danny Smith (born October 28, 1956) is an American football coach who is currently the special teams coordinator for the Washington Football Team of the National Football League (NFL).",minor_inaccurate,1,20,4.487194457761725,0
+98,1,He was previously the special teams coordinator for the Pittsburgh Steelers from 2007 to 2018.,minor_inaccurate,1,20,4.546574278018608,0
+98,2,"Smith has also served as the special teams coordinator for the Jacksonville Jaguars, Tampa Bay Buccaneers, and Chicago Bears.",major_inaccurate,1,20,4.566848770236281,0
+98,4,Smith has been coaching in the NFL since 1993.,minor_inaccurate,1,20,4.52136722954128,0
+99,4,"In 1963, Cooke met the Chogyal of Sikkim, Palden Thondup Namgyal, while he was on a visit to the United States.",major_inaccurate,1,20,4.564020953839894,0
+99,7,Cooke was instrumental in the modernization of Sikkim and the introduction of democracy to the country.,major_inaccurate,1,20,4.571821983742931,0
+100,0,Tathagata Satpathy (born 28 August 1956) is an Indian politician and a Member of Parliament in the Lok Sabha from the Biju Janata Dal (BJD) representing the Dhenkanal constituency of Odisha.,minor_inaccurate,1,20,4.5445312607215085,0
+101,1,He was a Member of the National Assembly of Quebec for the riding of L'Assomption from 2003 to 2007.,minor_inaccurate,1,20,4.237518628063279,0
+101,2,He was a member of the Parti Québécois.,major_inaccurate,1,20,4.059772144433486,0
+104,4,"He led his teams to six World Series titles, and is the only manager to win the World Series in both the American and National Leagues.",minor_inaccurate,1,20,4.569674228815259,0
+105,1,"He was the first president of York University in Toronto, Ontario, Canada, from 1959 to 1971.",minor_inaccurate,1,20,4.174910945901934,0
+105,5,Ross began his career as a professor of history at the University of Manitoba in 1947.,major_inaccurate,1,20,4.574534723540887,0
+105,6,"He was appointed the first president of York University in 1959, and served in that role until 1971.",minor_inaccurate,1,20,4.589493186020066,0
+105,11,"He was also a member of the Canadian Association of University Teachers, and served as its",major_inaccurate,1,20,4.60268743143627,0
+106,5,Brogdon is a two-time NBA All-Star and was named to the All-Defensive Second Team in 2019.,minor_inaccurate,1,20,4.3909951370871765,0
+109,1,"He became one of the most famous impostors ever, claiming to have assumed no fewer than eight identities, including an airline pilot, a physician, a U.S. Bureau of Prisons agent, and a lawyer.",minor_inaccurate,1,20,4.397586594829069,0
+110,3,"Reezal Merican was born in Kuala Terengganu, Terengganu, Malaysia.",major_inaccurate,1,20,4.59947583411421,0
+112,2,"She has also appeared in the television series The West Wing, Law & Order, and The Good Wife.",minor_inaccurate,1,20,4.608166092059898,0
+113,0,"Clay timpani, also known as pot drums, are a type of drum used in classical music, jazz, and other genres.",major_inaccurate,1,20,4.602795578973912,0
+114,0,"Yaakov Israel Ifargan (born in Jerusalem, Israel, in 1945) is an Israeli businessman and philanthropist.",major_inaccurate,1,20,4.472761970525449,0
+115,0,"Ha Jung-woo (born Kim Sung-hoon on March 11, 1979) is a South Korean actor, film director, producer and writer.",minor_inaccurate,1,20,4.491908481216099,0
+116,2,"Lee played in the NBA for the Lakers, the Toronto Raptors, the New York Knicks, and the Atlanta Hawks.",major_inaccurate,1,20,4.446375820001564,0
+116,3,"He also played in the Continental Basketball Association, the International Basketball League, and the American Basketball Association.",major_inaccurate,1,20,4.267428090497043,0
+116,5,He also played in the NBA Development League and in Europe.,minor_inaccurate,1,20,4.370540177086833,0
+119,4,"Beggs was first elected to the Northern Ireland Forum in 1996, representing East Antrim.",minor_inaccurate,1,20,4.612102825126513,0
+119,6,He was appointed as the UUP's spokesperson on the environment in the Assembly in 2007.,minor_inaccurate,1,20,4.419502379104676,0
+120,0,"Adiele Afigbo (1941–2006) was a Nigerian historian and professor of African history at the University of Nigeria, Nsukka.",minor_inaccurate,1,20,4.253459866821485,0
+120,4,"He attended the University of Ibadan, where he obtained a Bachelor of Arts degree in History in 1965.",minor_inaccurate,1,20,4.57979288357369,0
+121,2,"He was also the former owner of the Pirates, and was the team's president and CEO from 2005 to 2016.",minor_inaccurate,1,20,4.286601229468268,0
+121,7,"In 2005, Petrovek was named the president and CEO of the Portland Pirates, and he also became the team's owner.",minor_inaccurate,1,20,4.21214054533404,0
+122,1,"He was a member of the European Parliament from 1989 to 2004, and was a member of the Irish Senate from 1981 to 1989.",minor_inaccurate,1,20,4.038749791417498,0
+122,2,He was a member of the Progressive Democrats from 1985 to 2007.,minor_inaccurate,1,20,4.331267698880604,0
+122,5,"He was a member of the Irish Senate from 1981 to 1989, and was elected to the European Parliament in 1989.",minor_inaccurate,1,20,4.048645036756169,0
+122,7,He was a member of the Progressive Democrats from 1985 to 2007.,major_inaccurate,1,20,4.331267698880604,0
+124,2,Milne made his debut for Derbyshire in the 1891 season against Lancashire.,major_inaccurate,1,20,4.6411294138731884,0
+125,1,He is currently the Vice President of Player Personnel for the Indianapolis Colts.,minor_inaccurate,1,20,4.493421746024765,0
+125,8,"In 1994, Tobin joined the Indianapolis Colts as Vice President of Player Personnel.",minor_inaccurate,1,20,4.429713376301381,0
+128,5,He was found guilty and sentenced to two years in prison in 2008.,minor_inaccurate,1,20,4.618836555709344,0
+131,0,"Eden Natan-Zada (Hebrew: עדן נתן-זדה‎; August 5, 1984 – August 4, 2005) was an Israeli soldier who perpetrated a shooting attack on a bus in the Israeli Arab town of Shfaram on August 4, 2005.",minor_inaccurate,1,20,4.505626049300445,0
+133,1,"He was primarily a third baseman, but also played shortstop, second base, and the outfield.",major_inaccurate,1,20,4.577368969946549,0
+134,3,"He is the host of the nationally-syndicated radio program, The Wayne Allyn Root Show, and the author of several books, including The Power of Relentless: 7 Secrets to Achieving Mega-Success, Financial Freedom, and The Good Life.",minor_inaccurate,1,20,4.596042843035119,0
+136,1,"Caddis began his career with Celtic, making his debut in 2006.",minor_inaccurate,1,20,4.498522520228817,0
+140,0,"The Third Dalai Lama, Sonam Gyatso (1543–1588), was identified as the reincarnation of the Second Dalai Lama, Gendun Gyatso, and enthroned at the age of seven in 1550.",minor_inaccurate,1,20,4.2643913020521,0
+144,0,Billy Barnie (1850–1925) was an American professional baseball player and manager.,minor_inaccurate,1,20,4.6207218308881925,0
+145,3,"She has also written plays for the Royal Court Theatre, the National Theatre, and the Royal Shakespeare Company.",major_inaccurate,1,20,4.629982211646943,0
+147,1,"She is best known for her roles in the films The Mummy Returns (2001), The Libertine (2004), and The Descent (2005).",major_inaccurate,1,20,4.499189765337443,0
+147,4,"She has appeared in numerous television series, including The Bill, Casualty, and Holby City.",minor_inaccurate,1,20,4.416337865607724,0
+147,5,"She has also appeared in the films The Mummy Returns (2001), The Libertine (2004), and The Descent (2005).",major_inaccurate,1,20,4.398459331164397,0
+147,6,"Akhurst has also appeared in the stage productions of The Seagull, The Cherry Orchard, and The Taming of the Shrew.",major_inaccurate,1,20,4.58368009718661,0
+147,7,"She has also appeared in the television series The Tudors, The Shadow Line, and The White Queen.",major_inaccurate,1,20,4.5796623464405295,0
+148,1,"He was the president of Smith College from 1910 to 1939, and was a major figure in the development of the modern liberal arts college.",minor_inaccurate,1,20,4.596722470541605,0
+148,2,Neilson was born in 1869 in New York City.,major_inaccurate,1,20,4.642819004162851,0
+148,5,"In 1910, he was appointed president of Smith College, a position he held until 1939.",minor_inaccurate,1,20,4.453303079123939,0
+149,1,"He was a veteran of the American Revolutionary War, and served in the Rhode Island General Assembly.",minor_inaccurate,1,20,4.542750936632133,0
+149,2,He was a member of the Rhode Island Society of the Cincinnati.,minor_inaccurate,1,20,4.359199885032553,0
+149,3,"Brown was born in 1776 in South Kingstown, Rhode Island.",minor_inaccurate,1,20,4.573568859410274,0
+149,5,He was a farmer and a soldier in the American Revolutionary War.,major_inaccurate,1,20,4.4570695815018855,0
+149,7,He was a member of the Rhode Island Society of the Cincinnati.,minor_inaccurate,1,20,4.359199885032553,0
+152,1,"He was born in the village of Kullar, in the district of Amritsar, Punjab.",major_inaccurate,1,20,4.034737465646928,0
+152,5,He was a member of the Indian delegation to the United Nations in 1965.,major_inaccurate,1,20,4.280424625647469,0
+152,6,He was a member of the Indian delegation to the United Nations in 1965.,major_inaccurate,1,20,4.280424625647469,0
+152,7,He was also a member of the Indian delegation to the United Nations in 1965.,major_inaccurate,1,20,4.318706740395804,0
+152,8,He was a member of the Indian delegation to the United Nations in 1965.,major_inaccurate,1,20,4.280424625647469,0
+152,9,He was also a member of the Indian delegation to the United Nations in 1965.,major_inaccurate,1,20,4.318706740395804,0
+152,10,He was a member of the Indian delegation to the United Nations in 1965.,major_inaccurate,1,20,4.280424625647469,0
+152,11,He was also a member of the Indian delegation to the United Nations in 1965.,major_inaccurate,1,20,4.318706740395804,0
+152,12,He was a member of the Indian delegation to the,major_inaccurate,1,20,3.94731965351726,0
+153,1,"He is a three-time Olympic medalist, a two-time world champion, and a former world record holder in the 50-meter freestyle.",minor_inaccurate,1,20,4.597612026484994,0
+153,5,"He won a bronze medal in the 200-meter individual medley at the 2004 Summer Olympics in Athens, Greece, and a silver medal in the same event at the 2008 Summer Olympics in Beijing, China.",minor_inaccurate,1,20,4.279141438620006,0
+153,6,"He also won a bronze medal in the 4×100-meter medley relay at the 2012 Summer Olympics in London, England.",major_inaccurate,1,20,4.507765546786599,0
+155,2,Anne was the only child of Charles and Yvonne de Gaulle.,major_inaccurate,1,20,4.157176626195007,0
+157,0,John Cameron (1860–1937) was a Canadian politician who served in the Legislative Assembly of Alberta from 1921 to 1935.,minor_inaccurate,1,20,4.562485263618516,0
+157,1,He was born in Scotland and immigrated to Canada in 1883.,major_inaccurate,1,20,4.535665076116486,0
+157,2,Cameron was first elected to the Alberta Legislature in the 1921 Alberta general election.,major_inaccurate,1,20,4.14524602727762,0
+157,3,He was re-elected in the 1926 Alberta general election and the 1930 Alberta general election.,major_inaccurate,1,20,4.450306150058204,0
+157,4,He served as a member of the United Farmers of Alberta caucus.,major_inaccurate,1,20,4.393313551856489,0
+158,0,"Carole Gist (born April 28, 1969) is an American beauty pageant titleholder from Detroit, Michigan who was crowned Miss USA 1990.",minor_inaccurate,1,20,4.5867119850431095,0
+159,8,"He has also appeared in the ITV drama series Minder,",major_inaccurate,1,20,4.467400420168351,0
+160,1,"He was a four-time All-American at Princeton University, where he was a member of the 2001 NCAA championship team.",minor_inaccurate,1,20,4.333531293928576,0
+161,4,Miller was inducted into the College Football Hall of Fame in 1988.,minor_inaccurate,1,20,4.609186288557681,0
+162,6,He then served as the wide receivers coach at the University of Tennessee from 2009 to 2011.,major_inaccurate,1,20,4.401554489809369,0
+162,8,"In 2014, he was promoted to co-offensive coordinator and running backs coach.",minor_inaccurate,1,20,4.353895056639819,0
+162,10,"In 2018, he returned to Georgia as the offensive coordinator and quarterbacks coach.",major_inaccurate,1,20,4.048601278030966,0
+164,1,"He was born in Alicante, Spain, and studied law in Madrid.",minor_inaccurate,1,20,4.555246781857296,0
+167,2,"Brown was born in Sydney, Australia, and moved to the United States in the 1940s.",major_inaccurate,1,20,4.509084712116443,0
+171,1,"He is best known for his roles in the films Saw III, Saw IV, and Saw V, as well as the television series Smallville, Supernatural, and The 4400.",minor_inaccurate,1,20,4.642007537518761,0
+171,3,"He has also had guest roles on the television series Stargate SG-1, Stargate Atlantis, and The Dead Zone.",minor_inaccurate,1,20,4.538680649856008,0
+173,0,"Gordon Hogg (born October 28, 1951) is a Canadian politician who served as the Member of the Legislative Assembly of British Columbia for Surrey-White Rock from 2001 to 2017.",minor_inaccurate,1,20,4.613450876502758,0
+173,2,Hogg was first elected to the Legislative Assembly in the 2001 provincial election.,minor_inaccurate,1,20,4.225751358511445,0
+173,4,"He served as Minister of State for Mining, Minister of State for ActNow BC, Minister of State for Deregulation, Minister of State for Intergovernmental Relations, Minister of State for Climate Action, Minister of State for Seniors, and Minister of State for Rural Development.",minor_inaccurate,1,20,4.466619127103687,0
+175,1,"She has won five Olympic gold medals and 15 world championship gold medals, the most in history for a female swimmer.",minor_inaccurate,1,20,4.21051220793052,0
+179,2,"Sewall was born in Bath, Maine, the son of Hannah and Samuel Sewall.",minor_inaccurate,1,20,4.196673322101539,0
+179,6,He was a delegate to the Democratic National Convention in 1876 and 1880.,minor_inaccurate,1,20,4.630169635396327,0
+185,0,Philip of France (1116–1131) was King of France from 1180 to 1223.,minor_inaccurate,1,20,4.251919411582272,0
+185,1,"He was the son of Louis VII and his third wife, Adèle of Champagne.",minor_inaccurate,1,20,4.258773447539115,0
+187,1,He played college basketball for the University of Detroit Mercy.,major_inaccurate,1,20,4.071307937055045,0
+187,3,"He has also played professionally in France, Germany, Italy, Spain, Turkey, and the NBA Development League.",minor_inaccurate,1,20,4.594520346247923,0
+187,5,He was named the Detroit Free Press Player of the Year in 2000.,major_inaccurate,1,20,4.620379943231581,0
+187,9,Paulding was selected by the Detroit Pistons with the 57th overall pick in the 2004 NBA draft.,minor_inaccurate,1,20,4.467504587939151,0
+188,1,He was the president of the Grand Trunk Railway (GTR) from 1899 until his death in 1912.,minor_inaccurate,1,20,4.25166107222928,0
+189,1,"He began his career with Wolverhampton Wanderers, making his debut in 1995.",minor_inaccurate,1,20,4.518541286620844,0
+190,0,"Bane is a hardcore punk band from Washington, D.C., formed in 1995.",minor_inaccurate,1,20,4.264138591076985,0
+193,1,He is the 2014 FIM Superstock 1000 Cup champion.,minor_inaccurate,1,20,4.403130866004261,0
+193,2,"Barrier began his career in the French 125cc Championship in 2006, before moving to the European Superstock 600 Championship in 2008.",minor_inaccurate,1,20,4.502336638295651,0
+193,3,"He finished third in the championship in 2009, and second in 2010.",minor_inaccurate,1,20,4.229480252079626,0
+193,4,"In 2011, he moved to the FIM Superstock 1000 Cup, where he finished fourth in the championship.",minor_inaccurate,1,20,4.118552037936295,0
+193,8,"Barrier currently competes in the FIM Superbike World Championship, riding for the Grillini Racing Team.",minor_inaccurate,1,20,4.401718390694997,0
+194,0,Kirill Karabits (born 28 August 1975) is a Ukrainian conductor and the current music director of the Bournemouth Symphony Orchestra.,minor_inaccurate,1,20,4.505917465259685,0
+194,1,"He was born in Kiev, Ukraine, and studied at the Kiev Conservatory and the Royal Northern College of Music in Manchester.",minor_inaccurate,1,20,4.386971979958123,0
+194,2,"Karabits has held the position of Chief Conductor of the National Symphony Orchestra of Ukraine since 2008, and was appointed Music Director of the Bournemouth Symphony Orchestra in 2009.",minor_inaccurate,1,20,4.187829432350186,0
+194,4,"Karabits has conducted many of the world's leading orchestras, including the London Symphony Orchestra, the Royal Concertgebouw Orchestra, the Berlin Philharmonic, the Vienna Philharmonic, the Los Angeles Philharmonic, the Chicago Symphony Orchestra, the Philadelphia Orchestra, the San Francisco Symphony, the Cleveland Orchestra, the NHK Symphony Orchestra, the Orchestra dell'Accademia Nazionale di Santa Cecilia, the Orchestra Filarmonica della Scala, the Orchestra of the Mariinsky Theatre, and the Orchestra of the Age of Enlightenment.",minor_inaccurate,1,20,4.5699748481471785,0
+195,5,"He has also served as a member of the Board of Governors of the Indian Institute of Management, Ahmedabad.",major_inaccurate,1,20,4.618026025607096,0
+199,1,"He was a pioneer in the development of the field of cryogenics, and was the first to liquefy helium in the United States.",major_inaccurate,1,20,4.5394017182422415,0
+200,5,He was named in the PFA Team of the Year in 2012–13 and was included in the UEFA Team of the Year in 2015.,major_inaccurate,1,20,4.350315048239848,0
+202,1,"He was born in Philadelphia, Pennsylvania, and attended the University of Pennsylvania.",minor_inaccurate,1,20,4.289145399011143,0
+202,3,He eventually became president of the company.,major_inaccurate,1,20,4.596500228295984,0
+202,4,"Clapp was a major philanthropist, donating to a variety of causes.",minor_inaccurate,1,20,4.633573721358536,0
+202,8,He died in 1941.,major_inaccurate,1,20,4.493759033645997,0
+203,7,(1958).,major_inaccurate,1,20,4.352028329094321,0
+204,1,"He was born in London, the son of a Quaker merchant, and was educated at the Quaker school in Tottenham.",major_inaccurate,1,20,4.634309906753903,0
+204,5,He was also a strong advocate of education and was involved in the founding of several schools.,major_inaccurate,1,20,4.6433265210449175,0
+206,6,"He finished third in the championship that year, and went on to win the championship in 2000.",minor_inaccurate,1,20,4.469272737475215,0
+206,8,"Biagi continued to race in the FIA GT Championship until 2003, when he switched to the European Le Mans Series.",minor_inaccurate,1,20,4.568454391484385,0
+206,9,"He won the championship in 2004, and",minor_inaccurate,1,20,3.780082761439589,0
+208,1,"He was born in Tokyo, Japan.",major_inaccurate,1,20,4.121211043755311,0
+208,6,"He was a member of the Nihon Ki-in, the Japanese Go Association, and was the president of the Kansai Ki-in, the Kansai branch of the Nihon Ki-in.",major_inaccurate,1,20,4.518721674054873,0
+208,8,He was awarded the Order of the Rising Sun in 2006.,major_inaccurate,1,20,4.617033706636759,0
+210,1,He played college basketball for the University of San Francisco.,major_inaccurate,1,20,4.572129277933386,0
+210,3,He was named the WCAL Player of the Year as a senior in 2006–07.,major_inaccurate,1,20,4.641950582908038,0
+211,5,"Serin's blog, which he began in 2006, documented his experiences with real estate investing and his attempts to avoid foreclosure.",minor_inaccurate,1,20,4.640719946546592,0
+212,1,"He was born in Paris, the son of the writer Victor Hugo and his wife, Juliette Drouet.",minor_inaccurate,1,20,4.525579047457848,0
+213,1,He studied medicine at the University of Dorpat and later at the University of Berlin.,major_inaccurate,1,20,4.49749597167676,0
+213,6,He was the first to describe the process of gastrulation in chick embryos.,major_inaccurate,1,20,4.48168113991183,0
+214,5,"During the First World War he served in France, where he was awarded the Military Cross in 1915.",minor_inaccurate,1,20,4.614848288209518,0
+214,7,"In 1940, Tedder was appointed Deputy Chief of the Air Staff and was heavily involved in the planning of the Battle of Britain.",major_inaccurate,1,20,4.432596048550956,0
+215,0,"Cindy Kleine (born 1954) is an American filmmaker, writer, and producer.",minor_inaccurate,1,20,4.447487489982748,0
+215,2,"Her films have been shown at the Museum of Modern Art, the Whitney Museum of American Art, the New York Film Festival, and the Sundance Film Festival.",minor_inaccurate,1,20,4.449675274225009,0
+216,2,He was a four-time NBA All-Star and a three-time All-NBA Second Team selection.,minor_inaccurate,1,20,4.3775573608259695,0
+216,4,He was a three-time All-American at UCLA and was named the Most Valuable Player of the 1956 Final Four.,minor_inaccurate,1,20,4.590177770478212,0
+216,5,He was drafted by the St. Louis Hawks in the 1956 NBA draft and was traded to the New York Knicks in 1958.,minor_inaccurate,1,20,4.56632601136084,0
+216,6,"He was named to the All-Star team in 1959, 1960, 1961, and 1962.",minor_inaccurate,1,20,4.36826317502793,0
+216,7,"He was also named to the All-NBA Second Team in 1959, 1960, and 1962.",minor_inaccurate,1,20,4.475988595988127,0
+217,1,He was a professor at the University of Manchester from 1956 to 1984.,major_inaccurate,1,20,4.615381741847433,0
+217,5,Holman was a Fellow of the Royal Society and a recipient of the Davy Medal.,minor_inaccurate,1,20,4.443359963536334,0
+217,6,He was also awarded the Royal Medal of the Royal Society in 1975.,minor_inaccurate,1,20,4.521422884777724,0
+217,7,He was a member of the editorial board of the Journal of the Chemical Society and the Journal of Organic Chemistry.,minor_inaccurate,1,20,4.405711194014834,0
+218,1,"He is best known for his work in the philosophy of science, particularly in the philosophy of biology, and for his contributions to the philosophy of technology.",major_inaccurate,1,20,4.56578029277803,0
+218,2,He is also a Fellow of the Royal Society of Canada.,major_inaccurate,1,20,4.513619436114763,0
+218,5,"He has held visiting positions at the University of California, Berkeley, the University of Pittsburgh, and the University of Toronto.",major_inaccurate,1,20,4.618268032432334,0
+218,6,"Waddington's research focuses on the philosophy of science, particularly the philosophy of biology, and the philosophy of technology.",major_inaccurate,1,20,4.567833624757637,0
+218,8,"He is the author of several books, including The",major_inaccurate,1,20,4.481658539785149,0
+219,1,"He is best known as the drummer of the rock band Fall Out Boy, with whom he has recorded six studio albums.",minor_inaccurate,1,20,4.422845033685157,0
+219,9,"In 2004, Hurley joined Fall Out Boy as the band's drummer.",minor_inaccurate,1,20,4.209121954985597,0
+221,0,"John Joseph Hughes (July 19, 1797 – January 3, 1864) was an Irish-born prelate of the Roman Catholic Church in the United States.",minor_inaccurate,1,20,4.589915611110899,0
+221,6,"In 1826, he was appointed the first president of St. John's College in Fordham, New York.",minor_inaccurate,1,20,4.325012688583806,0
+221,7,"He was consecrated Bishop of New York in 1838, and was made Archbishop of New York in 1842.",minor_inaccurate,1,20,4.136872086760274,0
+221,8,"As Archbishop, Hughes was a strong advocate for the establishment of the Catholic Church in the United States.",minor_inaccurate,1,20,4.285681906592926,0
+222,1,"She has directed episodes of many popular television series, including The Office, 30 Rock, Girlfriends, Everybody Hates Chris, The Game, and The Boondocks.",minor_inaccurate,1,20,4.621282769049047,0
+223,1,He played in Major League Baseball as a third baseman for the St. Louis Cardinals (1938–1948) and Philadelphia Phillies (1949–1951).,minor_inaccurate,1,20,4.590187686692138,0
+223,6,"He was selected to the All-Star team in 1941, 1942, 1943, 1945, and 1947.",minor_inaccurate,1,20,4.377128788340455,0
+223,7,"In 1943, he led the National League in runs batted in (RBIs) with 120, and was named the league's Most Valuable Player.",minor_inaccurate,1,20,4.610187354255901,0
+225,1,He previously played for the Tokyo Yakult Swallows of Nippon Professional Baseball's (NPB) Central League.,major_inaccurate,1,20,4.534355072848169,0
+225,3,Iwakuma signed with the Mariners in January 2012 and made his MLB debut in August 2012.,minor_inaccurate,1,20,4.632244540525794,0
+226,0,"Virginia Bottomley, Baroness Bottomley of Nettlestone, PC, DL (born 12 May 1948) is a British Conservative Party politician.",minor_inaccurate,1,20,4.525426598665529,0
+228,1,"He played in the National Basketball Association (NBA) from 1970 to 1980 as a guard for the Los Angeles Lakers, Atlanta Hawks, and Houston Rockets.",minor_inaccurate,1,20,4.574737244934632,0
+228,4,He was selected by the Lakers in the second round of the 1970 NBA draft.,minor_inaccurate,1,20,4.424949451920044,0
+229,1,"He was born in Kiel, Germany, and studied at the University of Kiel and the University of Berlin.",major_inaccurate,1,20,4.160385015971442,0
+229,3,"Grabau was a pioneer in the field of stratigraphy, the study of the layers of sedimentary rocks.",major_inaccurate,1,20,4.523575745117506,0
+229,7,"He wrote extensively on the geology of China, and his work was instrumental in the development of Chinese geology.",major_inaccurate,1,20,4.481666567725649,0
+230,1,He was Minister of Fisheries from 2009 to 2013 and Minister of Finance from 2013 to 2017.,minor_inaccurate,1,20,4.166568477184552,0
+230,2,He was born in Reykjavík and graduated from the University of Iceland in 1980 with a degree in economics.,minor_inaccurate,1,20,4.47321325894005,0
+230,4,He was a member of the board of directors of the Central Bank from 1989 to 2003.,major_inaccurate,1,20,4.480173759194266,0
+230,7,"From 2009 to 2013, he was Minister of Fisheries and from 2013 to 2017, he was Minister of Finance.",minor_inaccurate,1,20,4.043624155439452,0
+230,8,He was also a member of the Icelandic delegation to the Council of Europe from 2009 to 2013.,major_inaccurate,1,20,4.363907317591816,0
+231,1,He was the leader of the Parti Québécois from 1968 to 1985 and served as the 25th Premier of Quebec from 1976 to 1985.,major_inaccurate,1,20,4.262551998070786,0
+232,2,"Moody was born in London, England.",major_inaccurate,1,20,4.47600996698165,0
+232,4,"He joined Juicy Lucy in 1969, and played on their first two albums.",minor_inaccurate,1,20,4.6344995115172685,0
+232,6,"In 1978, he joined Whitesnake, and played on their first five albums.",minor_inaccurate,1,20,4.634066992552019,0
+235,1,"He was born in St. Louis, Missouri, and was the son of a professional golfer.",major_inaccurate,1,20,4.424841354525997,0
+235,2,Burke turned professional in 1915 and won the Missouri Open in 1916.,major_inaccurate,1,20,4.5159226347008845,0
+235,6,He was inducted into the PGA Hall of Fame in 1978.,major_inaccurate,1,20,4.58385079160296,0
+236,5,"He was responsible for the development of the Windows kernel, the core of the operating system.",major_inaccurate,1,20,4.615648949418116,0
+237,1,"Synge was born in Dublin in 1714, the son of the Rev. Edward Synge, rector of St. Werburgh's Church, Dublin.",minor_inaccurate,1,20,4.358147104270508,0
+237,5,"In 1781 he was appointed Archbishop of Tuam, a post he held until his death in 1798.",minor_inaccurate,1,20,4.507842828088222,0
+237,7,He was a strong supporter of the Church of Ireland and was an advocate of the union of the Anglican and Roman Catholic churches.,minor_inaccurate,1,20,4.359945542268151,0

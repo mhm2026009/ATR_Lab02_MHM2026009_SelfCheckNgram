@@ -1,0 +1,12 @@
+# Experiment settings. NOTE: written AFTER the main run (retrospective freeze) - see research_decisions.md D-07.
+dataset: potsawee/wiki_bio_gpt3_hallucination   # split: evaluation, 238 biographies, 1,908 sentences
+method: SelfCheck-NGram (n=1, unigram)           # selfcheckgpt package; score = avg_neg_logprob
+sample_counts: [5, 10, 20]                       # nested subsets of the 20 provided GPT-3 sampled passages
+seeds: [42, 43, 44, 45, 46]                      # passage-subset shuffle: random.Random(seed + doc_id)
+positive_class: "major_inaccurate or minor_inaccurate (actual=1); prevalence 0.7296"
+primary_metric: AUROC                            # AP also reported; AP chance level = prevalence (0.7296)
+secondary_metric: AP
+bootstrap: {unit: biography, n: 1000, seed: 42, ci: percentile 95%}
+controls: [sentence_position, sentence_length, random_score(seed 0)]
+threshold_protocol: {exploratory: in-sample Youden J, reported_in_paper: 5-fold GroupKFold by doc_id}
+hardware_used_for_scoring: Google Colab (CUDA GPU visible; SelfCheck-NGram itself is CPU-bound)  # runtime ~19-20 min per seed

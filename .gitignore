@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+*.env.*
+.ipynb_checkpoints/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.bbl
+paper/*.blg
+.DS_Store

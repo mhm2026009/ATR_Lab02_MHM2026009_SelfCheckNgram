@@ -1,0 +1,4 @@
+human_label,count,mean,std,min,median,max
+accurate,516,4.712,0.3924,3.7908,4.6499,5.9918
+major_inaccurate,761,4.9884,0.396,3.9473,4.9693,6.7582
+minor_inaccurate,631,4.8444,0.372,3.7801,4.8256,6.5105

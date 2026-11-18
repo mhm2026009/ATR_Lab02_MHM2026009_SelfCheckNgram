@@ -1,0 +1,4 @@
+comparison,positive_sentences,negative_sentences,AUROC,AP
+major_inaccurate vs accurate,761,516,0.6962075604315008,0.7436430338101753
+minor_inaccurate vs accurate,631,516,0.6045190972862075,0.619451216290015
+major_inaccurate vs minor_inaccurate,761,631,0.6079028969722464,0.6394537535443551

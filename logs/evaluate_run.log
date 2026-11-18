@@ -1,0 +1,65 @@
+[check] sentences=1908 docs=238 positives=1392 prevalence=0.7296
+[check] label counts: {'major_inaccurate': 761, 'minor_inaccurate': 631, 'accurate': 516}
+                                    method     AP  AUROC
+                       SelfCheck-NGram k=5 0.7769 0.5890
+                      SelfCheck-NGram k=10 0.7998 0.6292
+                      SelfCheck-NGram k=20 0.8154 0.6546
+                Control: sentence position 0.7736 0.5819
+Control: sentence position (reversed sign) 0.6921 0.4181
+                  Control: sentence length 0.7082 0.4903
+  Control: sentence length (reversed sign) 0.7260 0.5097
+                     Control: random score 0.7284 0.4990
+                 Chance (prevalence / 0.5) 0.7296 0.5000
+              AP_mean  AP_std  AP_min  AP_max  AUROC_mean  AUROC_std  AUROC_min  AUROC_max
+sample_count                                                                              
+5              0.7807  0.0030  0.7769  0.7843      0.5955     0.0045     0.5890     0.6014
+10             0.7989  0.0007  0.7980  0.7998      0.6293     0.0022     0.6269     0.6318
+20             0.8154  0.0000  0.8154  0.8154      0.6546     0.0000     0.6546     0.6546
+                   metric  boot_mean  ci95_low  ci95_high ci_excludes_0
+                    AP_s5     0.7772    0.7391     0.8148              
+                 AUROC_s5     0.5891    0.5523     0.6241              
+                   AP_s10     0.8001    0.7633     0.8351              
+                AUROC_s10     0.6296    0.5946     0.6651              
+                   AP_s20     0.8154    0.7801     0.8490              
+                AUROC_s20     0.6549    0.6207     0.6884              
+          AP_ctl_position     0.7739    0.7375     0.8101              
+       AUROC_ctl_position     0.5820    0.5547     0.6106              
+            AP_ctl_length     0.7083    0.6650     0.7493              
+         AUROC_ctl_length     0.4898    0.4564     0.5248              
+            AP_ctl_random     0.7285    0.6907     0.7697              
+         AUROC_ctl_random     0.4986    0.4687     0.5279              
+             AP_diff_20_5     0.0382    0.0290     0.0484          True
+          AUROC_diff_20_5     0.0659    0.0527     0.0795          True
+AUROC_diff_20_vs_position     0.0730    0.0327     0.1146          True
+  AUROC_diff_20_vs_length     0.1651    0.1193     0.2135          True
+   AP_diff_20_vs_position     0.0416    0.0170     0.0673          True
+     AP_diff_20_vs_length     0.1072    0.0759     0.1383          True
+ AUROC_diff_5_vs_position     0.0071   -0.0356     0.0468         False
+    AP_diff_5_vs_position     0.0033   -0.0232     0.0292         False
+AUROC_diff_10_vs_position     0.0476    0.0059     0.0872          True
+   AP_diff_10_vs_position     0.0262    0.0019     0.0517          True
+                      protocol   TP  FP  FN  TN  precision  recall  accuracy  detect_rate_major_inaccurate  detect_rate_minor_inaccurate  detect_rate_accurate_FP_rate
+in-sample Youden (exploratory) 1062 258 330 258     0.8045  0.7629    0.6918                        0.8213                        0.6926                        0.5000
+      5-fold grouped CV Youden 1042 261 350 255     0.7997  0.7486    0.6798                        0.8081                        0.6767                        0.5058
+thresholds: 4.648083698002397 [4.648083698002397, 4.648083698002397, 4.648083698002397, 4.704715900790955, 4.632244540525794]
+              n  prevalence  AUROC_k20  AP_k20
+len_bin                                       
+Q1 short  487.0      0.7187     0.6327  0.7936
+Q2        477.0      0.7589     0.6550  0.8490
+Q3        470.0      0.7383     0.6565  0.8171
+Q4 long   474.0      0.7025     0.6772  0.8038
+             n  prevalence  AUROC_k20  AP_k20
+pos_bin                                      
+pos 0-1  476.0      0.6471     0.7390  0.8267
+pos 2-4  706.0      0.7252     0.6434  0.8009
+pos 5+   726.0      0.7879     0.5655  0.8284
+               metric  colab_mean  rerun_mean  colab_lo  rerun_lo  colab_hi  rerun_hi  max_abs_diff
+                 AP_5     0.77721     0.77721   0.73907   0.73907   0.81478   0.81478           0.0
+                AP_10     0.80010     0.80010   0.76332   0.76332   0.83506   0.83506           0.0
+                AP_20     0.81544     0.81544   0.78010   0.78010   0.84904   0.84904           0.0
+              AUROC_5     0.58908     0.58908   0.55228   0.55228   0.62409   0.62409           0.0
+             AUROC_10     0.62956     0.62956   0.59456   0.59456   0.66514   0.66514           0.0
+             AUROC_20     0.65493     0.65493   0.62066   0.62066   0.68836   0.68836           0.0
+   AP_difference_20_5     0.03823     0.03823   0.02897   0.02897   0.04838   0.04838           0.0
+AUROC_difference_20_5     0.06585     0.06585   0.05269   0.05269   0.07948   0.07948           0.0
+MAX ABS DIFF vs Colab: 6.938893903907228e-17

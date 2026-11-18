@@ -1,0 +1,26 @@
+doc_id,sentence_id,sentence,human_label,score
+206,9,"He won the championship in 2004, and",minor_inaccurate,3.780082761439589
+57,1,She won a bronze medal in the 100-metre breaststroke at the 2012 Summer Olympics in London.,minor_inaccurate,3.935600260269845
+152,12,He was a member of the Indian delegation to the,major_inaccurate,3.94731965351726
+91,1,"He is the founder and chairman of the investment group, the Joorabchian Group, and is the chairman of the Premier League football club, West Ham United.",minor_inaccurate,3.999441909072474
+152,1,"He was born in the village of Kullar, in the district of Amritsar, Punjab.",major_inaccurate,4.034737465646928
+122,1,"He was a member of the European Parliament from 1989 to 2004, and was a member of the Irish Senate from 1981 to 1989.",minor_inaccurate,4.038749791417498
+230,7,"From 2009 to 2013, he was Minister of Fisheries and from 2013 to 2017, he was Minister of Finance.",minor_inaccurate,4.043624155439452
+162,10,"In 2018, he returned to Georgia as the offensive coordinator and quarterbacks coach.",major_inaccurate,4.048601278030966
+122,5,"He was a member of the Irish Senate from 1981 to 1989, and was elected to the European Parliament in 1989.",minor_inaccurate,4.048645036756169
+101,2,He was a member of the Parti Québécois.,major_inaccurate,4.059772144433486
+187,1,He played college basketball for the University of Detroit Mercy.,major_inaccurate,4.071307937055045
+87,7,He retired from the Canadian Forces in 2008.,minor_inaccurate,4.071617811108311
+5,1,He made his international debut for the Sri Lankan cricket team in August 2018.,minor_inaccurate,4.086355551177151
+87,1,He was the first francophone to command the Canadian Forces in Afghanistan.,minor_inaccurate,4.099408659591949
+193,4,"In 2011, he moved to the FIM Superstock 1000 Cup, where he finished fourth in the championship.",minor_inaccurate,4.118552037936295
+57,9,She also won a silver medal in the 200-metre breaststroke at the 2011 Canadian Swimming Championships.,minor_inaccurate,4.118636970274217
+208,1,"He was born in Tokyo, Japan.",major_inaccurate,4.121211043755311
+221,7,"He was consecrated Bishop of New York in 1838, and was made Archbishop of New York in 1842.",minor_inaccurate,4.136872086760274
+157,2,Cameron was first elected to the Alberta Legislature in the 1921 Alberta general election.,major_inaccurate,4.14524602727762
+66,3,He was a member of the Indian National Congress and was a leader of the Swaraj Party.,major_inaccurate,4.146867350006995
+155,2,Anne was the only child of Charles and Yvonne de Gaulle.,major_inaccurate,4.157176626195007
+66,11,He was a member of the Indian delegation to the United Nations in 1956.,major_inaccurate,4.15998925376373
+229,1,"He was born in Kiel, Germany, and studied at the University of Kiel and the University of Berlin.",major_inaccurate,4.160385015971442
+230,1,He was Minister of Fisheries from 2009 to 2013 and Minister of Finance from 2013 to 2017.,minor_inaccurate,4.166568477184552
+24,1,"He was the eldest son of Dietrich I, Margrave of Meissen and his wife Matilda, daughter of Albert I, Duke of Saxony.",minor_inaccurate,4.17228547403623

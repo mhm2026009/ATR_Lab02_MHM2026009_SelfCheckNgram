@@ -1,0 +1,259 @@
+doc_id,sentence_id,sentence,human_label,actual,sample_count,hallucination_score,predicted
+2,2,Mahler was drafted by the Braves in the first round of the 1975 amateur draft.,accurate,0,20,4.85545667381114,1
+4,8,"He also oversaw the introduction of the FedEx Cup, a season-long points competition that culminates in a four-tournament playoff.",accurate,0,20,5.458353583767527,1
+4,9,Finchem retired as Commissioner in 2016 and was succeeded by Jay Monahan.,accurate,0,20,4.95816478474802,1
+5,8,"In October 2018, he was named in Sri Lanka's Test squad for their series against England, but he did not play.",accurate,0,20,5.029129476417066,1
+7,2,"He also wrote on history, psychology, the philosophy of religion, values, and other topics.",accurate,0,20,4.872487089924175,1
+7,3,He was a neo-Kantian who protested other neo-Kantians of his time and maintained a critical position towards psychologism.,accurate,0,20,5.549751036937294,1
+8,4,"Frith was a popular figure in the racing world, and was known for his daring and aggressive riding style.",accurate,0,20,4.995401295758127,1
+9,8,"He currently resides in Los Angeles, California.",accurate,0,20,5.070341587774667,1
+10,5,She has been praised for her ability to combine elements of science fiction and fantasy with traditional storytelling.,accurate,0,20,5.196901823967836,1
+11,3,He was assassinated by a disgruntled office seeker in 1893.,accurate,0,20,4.900821737329013,1
+11,9,He was a popular mayor and was known for his support of the working class.,accurate,0,20,4.689333084284179,1
+11,11,He was assassinated by a disgruntled office seeker in 1893.,accurate,0,20,4.900821737329013,1
+12,2,"The band has released three full-length albums, two EPs, and a handful of singles.",accurate,0,20,4.89221340935907,1
+13,0,"Noel Anthony Hogan (born 25 December 1971) is an Irish musician, singer-songwriter and record producer.",accurate,0,20,4.669506024204113,1
+13,2,"Hogan formed the band in 1989 with vocalist Dolores O'Riordan, bassist Mike Hogan and drummer Fergal Lawler.",accurate,0,20,4.811679057959052,1
+13,3,"The band achieved international success in the 1990s with their debut album Everybody Else Is Doing It, So Why Can't We?",accurate,0,20,5.341093338217537,1
+13,5,"Hogan wrote or co-wrote the majority of the band's material, including their biggest hits.",accurate,0,20,4.924430507647156,1
+13,6,He also produced the band's albums Bury the Hatchet (1999) and Wake Up and Smell the Coffee (2001).,accurate,0,20,5.148656642955307,1
+13,9,"Hogan has also produced albums for other artists, including The Cranberries' Something Else (2017) and Noel Gallagher's High",accurate,0,20,5.251005530321061,1
+14,1,"She has released five solo albums, and has collaborated with a variety of artists, including Sufjan Stevens, Will Oldham, and Iron & Wine.",accurate,0,20,4.746986891987306,1
+15,1,Quinn was born in New York City and began his career in the 1930s as a radio actor.,accurate,0,20,5.078574847414927,1
+15,6,Quinn died in 1994 at the age of 81.,accurate,0,20,4.976564426507526,1
+17,2,"Carangi's life was marred by drug addiction and depression, leading to her death from AIDS-related complications at the age of 26.",accurate,0,20,4.8840301284506,1
+17,3,She is considered to be one of the first famous women to die of the disease.,accurate,0,20,4.946615150516348,1
+17,4,"Her life was the subject of the 1998 biographical television film Gia, starring Angelina Jolie in the title role.",accurate,0,20,5.450043911733445,1
+19,6,He has since toured and recorded with the band on several occasions.,accurate,0,20,4.854433790601261,1
+19,7,"In 1987, Morgenstein joined Winger, with whom he has recorded six studio albums and toured extensively.",accurate,0,20,5.00625070325093,1
+19,9,"In addition to his work with Winger, he has also performed and recorded with Steve Morse Band, Jordan Rudess, and many other artists",accurate,0,20,4.728061287951378,1
+20,1,He was a right-arm fast-medium bowler and a right-handed batsman.,accurate,0,20,4.908552822265343,1
+22,3,"He has written or co-written several of the band's biggest hits, including ""Carry On Wayward Son"" and ""Dust in the Wind"".",accurate,0,20,4.892802656353225,1
+22,4,He has also released several solo albums and collaborated with other artists.,accurate,0,20,5.316513356698357,1
+23,1,"She was born in Los Angeles, California and grew up in the San Francisco Bay Area.",accurate,0,20,5.103408769017556,1
+26,0,"Thomas Harriot (c. 1560 – 2 July 1621) was an English astronomer, mathematician, ethnographer and translator who made advances within the scientific field during the late 16th and early 17th centuries.",accurate,0,20,5.088804812514721,1
+26,6,"He was employed by Sir Walter Raleigh to lead an expedition to the New World in 1585, and he made observations of the flora, fauna, and native peoples of the area.",accurate,0,20,5.053053621848863,1
+28,0,Gordon David Strachan (born 9 February 1957) is a Scottish football manager and former player.,accurate,0,20,4.670108880535642,1
+28,5,"He then moved to Southampton in 2001, where he guided them to the 2003 FA Cup Final, which they lost to Arsenal.",accurate,0,20,4.931493991316607,1
+32,3,"Yunkers was a prolific artist, working in a variety of media including painting, sculpture, photography, and printmaking.",accurate,0,20,4.817407855217307,1
+34,6,"Despite these challenges, Zhuang of Chu was able to maintain the independence of Chu and kept it from being annexed by the other states.",accurate,0,20,5.1633070280840325,1
+34,7,He was also able to expand Chu's territory and strengthen its economy.,accurate,0,20,5.176478607568527,1
+34,8,Zhuang of Chu was a wise and capable ruler who was respected by his contemporaries.,accurate,0,20,4.986461204535468,1
+34,9,"He was known for his generosity and kindness, and was praised for his ability to maintain peace and stability in Chu.",accurate,0,20,5.033139849674788,1
+36,3,"He was also a recipient of the Padma Shri, the fourth highest civilian award in India.",accurate,0,20,4.728222992417362,1
+36,10,Manilal was a prolific researcher and published over 200 research papers in various journals.,accurate,0,20,5.738506670796052,1
+39,2,"She then went on to study anthropology at the London School of Economics, where she obtained a Ph.D. in 1936.",accurate,0,20,5.132339424144512,1
+40,1,"Well known for his hip-hop style and use of catchphrases such as ""Boo-yah!""",accurate,0,20,4.747781167728836,1
+40,3,"He was also a contributor to ESPN's Sunday NFL Countdown, NBA Countdown and Baseball Tonight.",accurate,0,20,5.216995013154393,1
+40,4,He was honored with the Jimmy V Award for Perseverance at the 2014 ESPY Awards.,accurate,0,20,5.034975058989179,1
+42,1,He is known for his vibrant and colorful works that often depict Haitian culture and history.,accurate,0,20,5.202969488288623,1
+42,2,He is considered one of the most important contemporary Haitian artists.,accurate,0,20,5.314076660781272,1
+42,7,He has also created sculptures and installations that explore the relationship between art and nature.,accurate,0,20,5.447588421753762,1
+46,2,He was a member of the Packers teams that won three consecutive NFL championships from 1965 to 1967 and the first two Super Bowls in 1967 and 1968.,accurate,0,20,4.686712228585726,1
+47,2,She was nominated for the Nobel Peace Prize in 2007.,accurate,0,20,4.66102243727984,1
+48,4,"In 1965, he was cast in the lead role of the BBC's sitcom The Frost Report, which also featured John Cleese, Ronnie Corbett, and other future stars of British comedy.",accurate,0,20,4.948213891562436,1
+48,5,"Barker's career reached its peak in the 1970s with the BBC sketch show The Two Ronnies, which he co-wrote and performed with Ronnie Corbett.",accurate,0,20,4.943842315453896,1
+48,6,The show ran for 16 years and earned Barker two BAFTA awards.,accurate,0,20,5.280836815966174,1
+52,4,Izzo is considered one of the most successful and respected college basketball coaches of all time.,accurate,0,20,4.754267373739505,1
+53,0,Tommy Nutter (1943–1992) was a British tailor who was a major figure in the fashion world of the late 1960s and early 1970s.,accurate,0,20,4.773534379414766,1
+53,4,"His designs were known for their bold colors and patterns, and he was one of the first to introduce the ""peacock look"" to men's fashion.",accurate,0,20,5.065287906162828,1
+53,5,He was also one of the first to use denim in men's suits.,accurate,0,20,4.937652011896611,1
+53,7,He died of AIDS-related complications in 1992.,accurate,0,20,5.473430432839912,1
+54,0,"Jearl Walker (born July 25, 1945) is an American physicist and author.",accurate,0,20,4.694215823591348,1
+54,5,He has also written articles for Scientific American and other magazines.,accurate,0,20,4.906617889641789,1
+57,4,She began swimming at the age of five and was a member of the Oakville Aquatic Club.,accurate,0,20,4.790000435678786,1
+57,6,She is currently a student at the University of British Columbia.,accurate,0,20,4.900713292021661,1
+59,1,"He was appointed by President Barack Obama on August 7, 2009, and sworn in on August 13, 2009.",accurate,0,20,4.799491214978741,1
+59,2,He served until February 2013.,accurate,0,20,5.108315807966526,1
+59,5,He is a member of the New York Bar.,accurate,0,20,5.09047224059286,1
+60,1,"The band consists of Andrew Thiboldeaux (vocals, guitar, drums, percussion, keyboards) and Chris Ward (vocals, bass, guitar, keyboards).",accurate,0,20,4.774095290317995,1
+60,2,"The band has released four full-length albums, two EPs, and several singles.",accurate,0,20,4.834274257793845,1
+61,6,"Gameiro has represented France at various youth levels, and made his senior international debut in 2010.",accurate,0,20,5.000133578707863,1
+62,1,"He took office on 12 August 2004, succeeding Goh Chok Tong.",accurate,0,20,5.294938104469571,1
+65,4,"During her college career, she was named to the All-Pac-10 First Team in 2008 and 2009.",accurate,0,20,4.725979483023385,1
+68,3,"Honoré IV was a member of the House of Grimaldi, a Genoese family that had ruled Monaco since 1297.",accurate,0,20,5.203221078037127,1
+69,7,He also appeared in the spin-off series General Hospital: Night Shift.,accurate,0,20,5.214645834092503,1
+70,3,He made his debut for Derbyshire in the 1871 season against Lancashire.,accurate,0,20,4.675506700381469,1
+71,0,"Nate Saint (August 28, 1923 – January 8, 1956) was an American Christian missionary pilot and one of five martyrs killed while attempting to evangelize the Huaorani people of eastern Ecuador.",accurate,0,20,4.741770606262875,1
+71,2,"He attended Wheaton College in Illinois, where he studied aeronautical engineering and earned his pilot's license.",accurate,0,20,5.420125850456103,1
+71,6,"The group's goal was to evangelize the Huaorani people, a tribe of hunter-gatherers living in the Amazon rainforest.",accurate,0,20,5.086280282823043,1
+72,0,"Thutmose III (sometimes read as Thutmosis or Tuthmosis III, Thothmes in older history works; c. 1479–1425 BC) was the sixth Pharaoh of the Eighteenth Dynasty.",accurate,0,20,4.683298518457297,1
+72,2,He was a strong and ambitious ruler who reigned for 54 years.,accurate,0,20,5.257163616171957,1
+72,3,He expanded Egypt's army and wielded it with great success to consolidate the empire created by his predecessors.,accurate,0,20,5.6006937107945705,1
+74,0,A. P. J. Abdul Kalam (15 October 1931 – 27 July 2015) was an Indian scientist and politician who served as the 11th President of India from 2002 to 2007.,accurate,0,20,4.663299713606649,1
+77,1,"He is best known for his play The Laramie Project, which was adapted into an HBO movie.",accurate,0,20,4.9882304013536745,1
+77,5,"Kaufman is the founder and artistic director of Tectonic Theater Project, a New York-based theater company dedicated to developing innovative works that explore theatrical language and form, foster an artistic dialogue with the social issues of our time, and embrace the exploration of new ideas.",accurate,0,20,5.172375334539479,1
+77,6,"He has written and directed numerous plays, including Gross Indecency:",accurate,0,20,5.059914228120817,1
+77,7,"The Three Trials of Oscar Wilde, 33 Variations, and I Am My Own Wife.",accurate,0,20,4.978856261703492,1
+78,0,Robert Holgate (c. 1481 – 1555) was an English prelate and statesman who served as Archbishop of York from 1545 until his death in 1555.,accurate,0,20,5.009991243257422,1
+78,7,"He was a strong advocate of the Protestant faith, and was responsible for introducing Protestantism to the north of England.",accurate,0,20,4.886005553059314,1
+81,3,He is also a regular contributor to the Polish edition of Newsweek.,accurate,0,20,4.920897241274279,1
+82,4,"She was also a popular recording artist, releasing several albums of popular songs.",accurate,0,20,5.5799720476106325,1
+83,6,He lost control of his sled at,accurate,0,20,5.030941341230165,1
+87,4,"He served in various command and staff positions in Canada and abroad, including a tour of duty in Bosnia and Herzegovina.",accurate,0,20,4.791650870454395,1
+88,1,"He was born in the village of Yola, in present-day Adamawa State, Nigeria, and was a member of the Fulani ethnic group.",accurate,0,20,4.678388909219335,1
+88,2,"He was a religious leader and a warrior, and is credited with unifying the various Fulani clans in the region and establishing the Adamawa Emirate.",accurate,0,20,4.906977545549169,1
+88,3,"He was also a successful military leader, leading his forces in a number of successful campaigns against the neighboring Bantu-speaking peoples.",accurate,0,20,5.313833019098545,1
+90,2,"He is currently the Chairman of the Pakistan-China Institute, a think tank dedicated to promoting bilateral relations between the two countries.",accurate,0,20,5.134373468553961,1
+93,0,Emperor Wenxuan of Northern Qi (Chinese: 北齊文宣帝; pinyin: Běi Qí Wén Xuān Dì; Wade–Giles: Pei Ch'i Wen-hsüan,accurate,0,20,5.589123015381525,1
+94,2,He was also the first acquire genuine fame and cultural renown abroad.,accurate,0,20,5.306836892599512,1
+94,4,His work has influenced various generations of later Norwegian artists.,accurate,0,20,5.768768468649378,1
+94,5,"Dahl studied in Copenhagen under the Flemish history painter, Christian August Lorentzen, and in 1818 he went to Dresden to study with the German landscape painter, Caspar David Friedrich.",accurate,0,20,5.177580547010926,1
+94,8,"He is best known for his paintings of Norwegian fjords and mountains, and he often depicted wild storms and dramatic light",accurate,0,20,5.112523625775216,1
+97,6,He is currently a commentator for Fox Footy.,accurate,0,20,5.402463718449503,1
+98,5,Smith is known for his ability to develop special teams units that consistently rank among the best in the NFL.,accurate,0,20,5.129271385140061,1
+99,3,"She was educated at the Chapin School in New York City and at the Madeira School in McLean, Virginia.",accurate,0,20,5.160563208231184,1
+99,6,She was the first American woman to become a queen consort in Asia.,accurate,0,20,4.910267217503498,1
+100,3,Satpathy is a strong advocate of the Odia language and culture.,accurate,0,20,4.693100538641851,1
+100,4,He has been a vocal critic of the central government's policies on language and culture.,accurate,0,20,5.100250057919481,1
+102,2,Monti has also been Rector and President of Bocconi University in Milan for many years.,accurate,0,20,4.682259714956564,1
+102,4,"He was commonly referred to as ""Super Mario"" in the Italian media during his tenure as Prime Minister.",accurate,0,20,5.204215379193694,1
+102,5,"He is widely respected in Europe for his economic reforms and austerity policies, which he put in place to combat the Italian debt crisis.",accurate,0,20,5.297697456080294,1
+103,1,He is a prolific session musician who has recorded and performed with many well-known artists and groups since the mid-1970s.,accurate,0,20,5.023916617599567,1
+103,3,"He has also been a member of the John Mayer Trio, Paul Rodgers' band, and The Winery Dogs.",accurate,0,20,4.936218327187794,1
+103,4,"Palladino's signature bass sound is characterized by a deep, warm tone and a ""slap"" technique that is heavily influenced by funk music.",accurate,0,20,5.493589087057982,1
+103,5,He is widely regarded as one of the most influential bass players of the modern era.,accurate,0,20,4.894121697213077,1
+104,2,"His MLB career has spanned from 1963 to the present, in several roles.",accurate,0,20,5.139780196627034,1
+106,6,He is known for his defensive prowess and his ability to shoot from long range.,accurate,0,20,5.815076015742673,1
+107,0,"John Les (born October 28, 1951) is a Canadian politician who served as the Member of the Legislative Assembly of British Columbia for the riding of Chilliwack-Hope from 2001 to 2013.",accurate,0,20,4.953722852283275,1
+108,2,Wood made her debut as a leading film actress at the age of nine in Digging to China (1997) and garnered acclaim for her Golden Globe-nominated role as the troubled teenager Tracy Freeland in the teen drama film Thirteen (2003).,accurate,0,20,4.865494490545867,1
+109,4,He is currently a consultant and lecturer for the FBI academy and field offices.,accurate,0,20,4.770085472291553,1
+109,5,"Abagnale's story was depicted in the film Catch Me If You Can, directed by Steven Spielberg and starring Leonardo DiCaprio as Abagnale and Tom Hanks as an FBI agent.",accurate,0,20,5.068346733268697,1
+110,2,He was elected to the Dewan Rakyat in the 2018 general election.,accurate,0,20,4.863718776735096,1
+110,7,Reezal Merican was elected to the Dewan Rakyat in the 2018 general election.,accurate,0,20,4.820486160402832,1
+110,10,He is currently a member of the UMNO Supreme Council.,accurate,0,20,4.944563116195068,1
+112,5,"After graduating in 1970, she moved to New York City and began her acting career.",accurate,0,20,5.645259835456874,1
+112,7,Crouse has appeared in numerous films and television shows throughout her career.,accurate,0,20,4.847408921438539,1
+115,5,"He rose to fame with his leading role in the 2008 film The Chaser, for which he won Best Actor at the Grand Bell Awards and Blue Dragon Film Awards.",accurate,0,20,4.674955020973261,1
+117,2,"The group previously included Stuart Cable (drums, percussion, backing vocals) from 1992 until his departure in 2003.",accurate,0,20,5.328058696790231,1
+117,5,"The band have also achieved seventeen Top 10 singles on the UK Singles Chart, including ""Dakota"" which hit number one in 2005.",accurate,0,20,5.051230111985676,1
+119,3,He worked as a civil servant before entering politics.,accurate,0,20,5.775013135092215,1
+120,2,He was also a major contributor to the development of African historiography.,accurate,0,20,4.808762541887433,1
+120,7,"Afigbo was a prolific writer and researcher, and his works include The Warrant Chiefs: Indirect Rule in Southeastern Nigeria, 1891–1929 (1972), Ropes of Sand: Studies in Igbo History and Culture (1981), and The Abolition of the Slave Trade in S",accurate,0,20,4.862944967356564,1
+125,12,"He has also been credited with helping to develop the careers of many NFL players, including Hall of Fam",accurate,0,20,5.67919258182552,1
+126,2,"He was also the primary author of The Turner Diaries, a novel which depicts a violent revolution in the United States leading to the overthrow of the federal government and the extermination of non-whites and Jews.",accurate,0,20,4.859457359058586,1
+126,5,He was also a member of the National Socialist White People's Party and the American Nazi Party.,accurate,0,20,4.794648328215425,1
+126,6,"He was a vocal advocate of white separatism and white supremacy, and was a Holocaust denier.",accurate,0,20,4.785829273062165,1
+127,3,"Sorbara was born in Toronto, Ontario, and began playing music at a young age.",accurate,0,20,4.88435960789095,1
+127,6,"She has written and produced music for film and television, and has collaborated with artists such as Kaskade, Martin Solveig, and Basement Jaxx.",accurate,0,20,5.056330005133856,1
+131,1,Natan-Zada was a deserter from the Israel Defense Forces (IDF) who had been discharged from the army after being diagnosed with a mental disorder.,accurate,0,20,5.091934147562265,1
+131,2,"He was killed by a mob of angry townspeople after he opened fire on the bus, killing four people and wounding several others.",accurate,0,20,4.968333738752747,1
+135,1,"Kennedy was mortally wounded shortly after midnight on June 5, 1968, in the Ambassador Hotel on Wilshire Boulevard in Los Angeles, and died 26 hours later at Good Samaritan Hospital.",accurate,0,20,4.916841651668754,1
+135,3,Sirhan was convicted of Kennedy's murder and is serving a life sentence for the crime.,accurate,0,20,4.6769269584745,1
+136,2,He spent time on loan at Dundee and Dundee United before joining Swindon Town in 2010.,accurate,0,20,4.931603464461375,1
+136,7,Caddis has represented Scotland at under-19 and under-21 level.,accurate,0,20,5.572459098624935,1
+137,7,"The band released four albums between 1988 and 1993, and had several hit singles, including ""Seventeen"" and ""Headed for a Heartbreak"".",accurate,0,20,5.806381368251026,1
+138,3,"She has also had a successful career on television, with roles in shows such as NCIS:",accurate,0,20,5.160638661166521,1
+140,6,He died in 1588 at the age of 45.,accurate,0,20,4.810161908686068,1
+142,0,Jack Straw (born 3 August 1946) is a British Labour Party politician who served as the Member of Parliament (MP) for Blackburn from 1979 to 2015.,accurate,0,20,4.7277609355995125,1
+142,2,"Straw held two of the traditional Great Offices of State, as Home Secretary from 1997 to 2001 and Foreign Secretary from 2001 to 2006 under Blair.",accurate,0,20,4.828619281097564,1
+142,3,From 2007 to 2010 he served as Lord Chancellor and Secretary of State for Justice throughout Brown's premiership.,accurate,0,20,5.073989458054335,1
+142,4,"A former chair of the Labour Party, Straw was one of the few remaining links between the Labour governments led by Blair and Brown and the party's previous incarnation under Tony Benn, John Smith and Neil Kinnock.",accurate,0,20,5.5189290537112825,1
+143,3,"He was a councillor on Portsmouth City Council from 1973 to 1997, and was leader of the council from 1983 to 1997.",accurate,0,20,4.818652677595382,1
+145,1,"She is best known for writing the book for the musical Mamma Mia!, which has been seen by over 60 million people worldwide.",accurate,0,20,4.979384250550448,1
+146,0,"Sara Montiel (born María Antonia Abad Fernández; 10 March 1928 – 8 April 2013) was a Spanish singer, dancer, and actress.",accurate,0,20,4.652970434026553,1
+146,1,She was a major figure in Spanish culture from the 1950s through the 1970s.,accurate,0,20,4.774485026176328,1
+146,2,"Montiel was born in Campo de Criptana, Ciudad Real, Castile-La Mancha, Spain.",accurate,0,20,4.827610255339186,1
+146,5,"Montiel was also a successful recording artist, releasing several albums throughout her career.",accurate,0,20,5.327667848909463,1
+146,7,Montiel died in Madrid in 2013 at the age of 85.,accurate,0,20,5.137371400870582,1
+148,0,William Allan Neilson (1869–1946) was an American educator and scholar.,accurate,0,20,4.73228895472403,1
+148,4,"He then went on to teach at Harvard, eventually becoming a professor of English literature.",accurate,0,20,4.985649872063222,1
+148,6,"During his tenure at Smith, Neilson was instrumental in transforming the college from a small, local institution into a major national university.",accurate,0,20,5.2561882651096825,1
+148,7,"He increased the size of the faculty, expanded the curriculum, and improved the college's financial stability.",accurate,0,20,5.014116277024456,1
+151,3,"He soon expanded into other metalworking trades, and by 1851 he had become one of the largest employers in Birmingham.",accurate,0,20,5.45487922402328,1
+151,6,He was knighted in 1872 for his philanthropic work.,accurate,0,20,5.210519752985511,1
+157,9,He was buried in Edmonton's Beechmount Cemetery.,accurate,0,20,5.1987039365577,1
+160,4,"Striebel was also a member of the United States men's national lacrosse team, winning a gold medal at the 2010 FIL World Lacrosse Championship.",accurate,0,20,4.848239322645144,1
+162,3,"McClendon played college football at the University of Georgia, where he was a four-year letterman and two-year starter at wide receiver.",accurate,0,20,4.6570597867322245,1
+162,5,"After his playing career, McClendon served as a graduate assistant at Georgia from 2006 to 2008.",accurate,0,20,4.8741830388522684,1
+164,4,"He also wrote novels, short stories, and essays.",accurate,0,20,4.72620441428171,1
+164,5,"He was a member of the Generation of '98, a group of Spanish writers who sought to revive Spanish literature after the decline of Romanticism.",accurate,0,20,5.256045514372948,1
+166,1,Lymon was one of the first African-American teenagers to be widely accepted as a teen idol.,accurate,0,20,5.03375312667961,1
+166,2,"He was noted for his high-pitched voice and his ability to sing in a ""whining"" style.",accurate,0,20,5.153973765226526,1
+166,3,"His group, The Teenagers, was composed of five boys, all of whom were in their mid-teens.",accurate,0,20,4.817393690277541,1
+166,5,"Lymon's success as a singer and a performer was short-lived, however, as he struggled with drug addiction and personal problems.",accurate,0,20,5.123322679809211,1
+166,6,He died of a drug overdose at the age of 25.,accurate,0,20,4.6933086366038745,1
+169,0,"Ayn Rand (born Alisa Zinov'yevna Rosenbaum; February 2 [O.S. January 20] 1905 – March 6, 1982) was a Russian-American writer and philosopher.",accurate,0,20,4.794576222980327,1
+169,4,"After two early novels that were initially unsuccessful, she achieved fame with her 1943 novel, The Fountainhead.",accurate,0,20,4.695321919012576,1
+169,6,"Afterward, she turned to non-fiction to promote her philosophy, publishing her own magazines and releasing several collections of essays until her death in 1982.",accurate,0,20,4.699413997676713,1
+170,3,"Epstein is a prolific author, having written more than twenty books and over two hundred articles.",accurate,0,20,5.722814753081016,1
+173,5,Hogg announced his retirement from politics in April 2017.,accurate,0,20,5.229471730148058,1
+173,6,He was succeeded by Tracy Redies in the 2017 provincial election.,accurate,0,20,5.175627955574453,1
+175,6,"Ledecky is the most decorated female swimmer in World Championship history, and the second-most decorated swimmer of either gender, behind only Michael Phelps.",accurate,0,20,4.923436916462881,1
+176,2,"Since October 23, 2012, Michael Savage has been syndicated by Cumulus Media Networks.",accurate,0,20,4.939703648274598,1
+176,3,"He holds master's degrees from the University of Hawaii in medical botany and medical anthropology, and a Ph.D. from the University of California, Berkeley in nutritional ethnomedicine.",accurate,0,20,5.025091380301718,1
+177,4,"He was also a conceptual designer for the films The Chronicles of Narnia: The Lion, the Witch and the Wardrobe and The Golden Compass.",accurate,0,20,4.679072819886506,1
+178,1,"She is best known for her hit single ""32 Flavors"", which was released in 1997 and reached number 28 on the Billboard Hot 100.",accurate,0,20,4.9314357896791545,1
+179,8,The ticket was defeated by the Republican ticket of William McKinley and Garret Hobart.,accurate,0,20,5.032908640560094,1
+181,1,"She has released more than 20 albums, and has performed with many of the world's leading jazz musicians, including Herbie Hancock, Ron Carter, and Wynton Marsalis.",accurate,0,20,5.227073970739573,1
+181,2,"Koorax has been praised for her ability to combine Brazilian rhythms with jazz, and for her powerful and emotive vocal style.",accurate,0,20,5.209341959095957,1
+181,3,"She has been described as ""one of the most important Brazilian jazz singers of the last two decades"".",accurate,0,20,5.311748857745842,1
+182,5,"Wolfe's other novels—Of Time and the River (1935), The Web and the Rock (1939), and You Can't Go Home Again (1940)—were less successful but remain highly regarded.",accurate,0,20,5.375065350710244,1
+182,6,He is considered a major American modernist writer.,accurate,0,20,5.377324200866216,1
+188,2,"He was responsible for the construction of the GTR's transcontinental line from Montreal to Vancouver, and for the construction of the Grand Trunk Pacific Railway (GTPR) from Winnipeg to Prince Rupert, British Columbia.",accurate,0,20,4.863455178200535,1
+188,3,"He was also responsible for the construction of the GTR's network of hotels, including the Château Laurier in Ottawa.",accurate,0,20,4.70419779453922,1
+188,6,"He was a strong advocate of the transcontinental railway, and was instrumental in securing the necessary funding from the Canadian government.",accurate,0,20,4.702820234400571,1
+188,7,"He was also responsible for the construction of the GTR's network of hotels, including the Château Laurier in Ottawa.",accurate,0,20,4.70419779453922,1
+188,8,Hays was a visionary leader who was determined to make the GTR a success.,accurate,0,20,5.215528423678017,1
+190,3,"They have released five full-length albums, as well as several EPs and splits.",accurate,0,20,4.952505306121901,1
+190,4,"Their most recent album, Don't Wait Up, was released in 2014.",accurate,0,20,4.925721961663423,1
+190,6,"They have also performed at festivals such as Hellfest, Groezrock, and Sound and Fury.",accurate,0,20,5.486493474697332,1
+192,7,He continued to appear in films until his death in 1944.,accurate,0,20,4.68073770041652,1
+196,1,He was born in New York City and began his career in vaudeville.,accurate,0,20,4.813983303882275,1
+196,2,"He later moved to Broadway, where he appeared in a number of plays and musicals.",accurate,0,20,5.207717186020283,1
+197,3,"She also appeared in many other television shows and films, including Car 54, Where Are You?, All in the Family, Pretty Little Liars, and You Again?.",accurate,0,20,5.225048665888815,1
+198,2,He was the first designer of Italian origin to be appointed to the position.,accurate,0,20,4.873272373731236,1
+198,4,He studied at the London College of Fashion and Central Saint Martins College of Art and Design.,accurate,0,20,4.905247454216723,1
+198,5,"He began his career in fashion in the early 2000s, working as a freelance designer for various fashion houses.",accurate,0,20,5.1143594383000135,1
+198,7,"During his tenure at Givenchy, Tisci was credited with reviving the brand's fortunes.",accurate,0,20,4.958131278707096,1
+198,9,"He also collaborated with a number of high-profile celebrities, including Madonna, Kanye West, and Beyoncé.",accurate,0,20,5.168143664880108,1
+198,10,Tisci left Givenchy in 2017 and was succeeded by Clare Waight Keller.,accurate,0,20,5.652733772294875,1
+199,0,Lester Germer (1896–1971) was an American physicist who is best known for his work in the field of low-temperature physics.,accurate,0,20,4.792220685391851,1
+199,4,"He worked at Bell Laboratories from 1921 to 1956, where he made significant contributions to the development of the electron microscope and the study of low-temperature physics.",accurate,0,20,5.030671718589966,1
+200,1,"He began his career at Guingamp in 2004, spending three seasons at the club before joining Tours in 2007.",accurate,0,20,4.6800167560177774,1
+200,2,"After two seasons at Tours, he joined Lorient in 2009.",accurate,0,20,4.700008948570688,1
+200,4,"Koscielny has made over 300 appearances for Arsenal, winning three FA Cups and two FA Community Shields.",accurate,0,20,5.194514452626959,1
+200,7,"He has also represented France at the 2014 FIFA World Cup and UEFA Euro 2016, helping them to the final of the latter tournament.",accurate,0,20,4.991513767885701,1
+201,5,"She starred in the ABC television series Six Degrees, which premiered in September 2006, but was cancelled after one season.",accurate,0,20,5.4558819928945015,1
+203,0,Merle Oberon (born Estelle Merle O'Brien Thompson; 19 February 1911 – 23 November 1979) was an Anglo-Indian actress.,accurate,0,20,4.77002116039373,1
+203,2,"After her success in The Scarlet Pimpernel (1934), she travelled to the United States to make films for Samuel Goldwyn.",accurate,0,20,4.707187798574929,1
+203,8,Her later years were marred by personal problems and illness.,accurate,0,20,5.991781960563637,1
+203,9,"She died in 1979, aged 68.",accurate,0,20,4.946729930902718,1
+205,2,"This friendship was compared, by others as well as themselves, to that of Achilles and Patroclus.",accurate,0,20,5.486453948050772,1
+205,3,His military career was distinguished.,accurate,0,20,4.944879601047917,1
+205,4,"He was the first to scale the walls of Tyre in 332 BC, which was the primary cause of the fall of the city.",accurate,0,20,4.98008469179761,1
+205,5,He was also the first to conquer the Malli in India in 326 BC.,accurate,0,20,5.132598774588577,1
+205,6,He was also in command of the Companion cavalry on the left wing in the Battle of Gaugamela in 331 BC.,accurate,0,20,4.885120114040197,1
+206,4,"He raced in the series until 1998, when he switched to sports car racing.",accurate,0,20,4.694201447661353,1
+211,1,He gained notoriety in 2006 when he began blogging about his experiences as a real estate investor.,accurate,0,20,4.894701180119959,1
+211,3,He quickly became overwhelmed by the debt and was unable to make payments on the mortgages.,accurate,0,20,5.142034856871853,1
+211,7,"His blog was widely read and attracted the attention of the media, who reported on his financial struggles.",accurate,0,20,4.817339118681803,1
+212,3,"Jean Hugo was a prolific artist, best known for his drawings and engravings.",accurate,0,20,4.901735674679698,1
+212,4,"He also produced paintings, lithographs, sculptures, tapestries, and ceramics.",accurate,0,20,5.063480322208953,1
+212,5,"He was associated with the art movements of Fauvism, Cubism, and Surrealism.",accurate,0,20,4.914834141290828,1
+213,0,"Heinz Christian Pander (1794–1865) was a German anatomist and embryologist who was born in Riga, Latvia.",accurate,0,20,4.821393381017838,1
+213,3,"Pander is best known for his work on the development of chick embryos, which he described in his 1817 book Beiträge zur Entwickelungsgeschichte des Hühnereies (Contributions to the Developmental History of the Chicken Egg).",accurate,0,20,5.050302540851925,1
+214,1,"During the Second World War he was Deputy Supreme Allied Commander in Europe, serving under General Dwight D. Eisenhower.",accurate,0,20,4.679452622417496,1
+216,1,"He was a 6'6"" forward/center who played in the National Basketball Association (NBA) from 1956 to 1966.",accurate,0,20,4.894162638601239,1
+219,3,"He was previously involved with several other bands, including Project Rocket, Racetraitor, and Enabler.",accurate,0,20,4.72432272897411,1
+219,6,He attended Menomonee Falls High School and played in several local bands throughout his teenage years.,accurate,0,20,5.639973938594931,1
+221,9,"He was a vocal opponent of anti-Catholicism, and was instrumental in the establishment of the first Catholic schools and orphanages in New York",accurate,0,20,4.72345239642365,1
+222,7,"Shelton has been nominated for several awards, including a Primetime Emmy Award for Outstanding Directing for a Comedy Series for her work on 30 Rock.",accurate,0,20,4.893169155441576,1
+224,1,"Formed in 1983, the band is currently composed of vocalist/bassist Fat Mike, lead guitarist Eric Melvin, rhythm guitarist El Hefe, and drummer Erik Sandin.",accurate,0,20,4.68685219088389,1
+224,2,"They are often credited as one of the most successful independent bands of all time, having sold over 8 million records worldwide.",accurate,0,20,5.332408909271067,1
+224,4,"Their lyrics often focus on punk politics, humor, and pop culture.",accurate,0,20,4.939715007489867,1
+224,5,"The band has released twelve studio albums, fifteen extended plays, four live albums, and numerous 7"" singles.",accurate,0,20,4.875043995246849,1
+224,6,"They have also collaborated with other artists, including NOFX/Rancid split albums, and the Fat Wreck Chords compilation albums.",accurate,0,20,5.420471272399807,1
+226,8,"After the 1997 general election, she returned to the backbenches.",accurate,0,20,5.0197378280072265,1
+226,9,She stood down from the House of Commons at the 2005 general election.,accurate,0,20,4.747523216499713,1
+227,3,"Liscio began his career in the financial services industry in the early 1970s, working as a stockbroker and financial analyst.",accurate,0,20,4.869571973596824,1
+227,5,"The firm provides research and analysis on the stock market, mutual funds, and other investments.",accurate,0,20,5.125821524060111,1
+228,3,"He attended the University of California, Los Angeles (UCLA), where he was a member of the school's 1969–70 NCAA championship team.",accurate,0,20,4.72532113898123,1
+232,1,He has also released several solo albums.,accurate,0,20,4.737061539243902,1
+232,3,"He began playing guitar at the age of 12, and by the age of 15 he was playing in local bands.",accurate,0,20,5.0264550263118375,1
+232,8,"He has also released several solo albums, and has collaborated with many other artists.",accurate,0,20,4.739235328966763,1
+234,0,Michael Replogle (born 1951) is an American environmentalist and transportation planner.,accurate,0,20,5.008155384171873,1
+234,1,"He is the founder and director of the Institute for Transportation and Development Policy (ITDP), a global non-profit organization that works to promote sustainable transport solutions in cities around the world.",accurate,0,20,4.805092058715515,1
+234,2,"Replogle has been a leader in the field of sustainable transportation for more than four decades, and has been credited with helping to shape the modern urban transport landscape.",accurate,0,20,5.164621365493305,1
+234,3,"He has worked with cities in more than 40 countries to develop and implement sustainable transport policies and projects, including bus rapid transit, bike-sharing, and pedestrian-friendly streets.",accurate,0,20,5.492424429315105,1
+234,4,He has also been a vocal advocate for the use of pricing mechanisms to reduce traffic congestion and air pollution.,accurate,0,20,5.345917582674232,1

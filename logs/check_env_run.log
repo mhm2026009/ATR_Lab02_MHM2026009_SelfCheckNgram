@@ -1,0 +1,10 @@
+python 3.12.3 Linux-6.18.44-fc-v595-x86_64-with-glibc2.39
+numpy          2.5.4
+pandas         3.0.6
+scipy          1.18.1
+sklearn        1.9.1
+matplotlib     3.11.2
+selfcheckgpt   NOT INSTALLED  (only needed for scripts/run_selfcheck.py)
+datasets       NOT INSTALLED  (only needed for scripts/run_selfcheck.py)
+torch          NOT INSTALLED  (only needed for scripts/run_selfcheck.py)
+OK raw results: 5724 rows; 238 biographies; k = [np.int64(5), np.int64(10), np.int64(20)]

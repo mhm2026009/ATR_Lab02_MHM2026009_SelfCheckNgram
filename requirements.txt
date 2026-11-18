@@ -1,0 +1,14 @@
+# Offline evaluation (scripts/evaluate.py, make_figures.py, check_env.py) - versions below are the ones actually used
+# to regenerate the tables in results/tables on 2026-11-18 (Python 3.12.3).
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+
+# Only for scripts/run_selfcheck.py (raw-score generation, run in Colab). Versions NOT pinned: [TO VERIFY] run
+# `pip freeze | grep -i -E "selfcheckgpt|datasets|spacy|torch"` in your Colab runtime and paste the output here.
+selfcheckgpt
+datasets
+spacy
+torch
